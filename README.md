@@ -54,7 +54,7 @@ This project is being developed as the Sprint 13 Capstone Blueprint for the Prod
 | Project Name | TaskMatrix |
 | Sprint | Sprint 13 Capstone |
 | Track | Frontend Specialist |
-| Repository | prodesk-capstone-taskmatrix |
+| Repository | capstone-taskmatrix |
 | Status | Product Planning Phase |
 
 ---
