@@ -97,7 +97,7 @@ Frontend
 
 - Next.js 16
 - React 19
-- TypeScript
+- JavaScript
 - Tailwind CSS
 - Shadcn UI
 
