@@ -428,48 +428,31 @@ Analytics Dashboard
 
 ---
 
-# Figma Wireframes
+## 🎨 Wireframes
 
-Public Link
+### Login Screen
+![Login](docs/wireframes/login.png)
 
-(Add Your Figma Link Here)
+### Dashboard Screen
+![Dashboard](docs/wireframes/dashboard.png)
 
----
-
-# State Architecture
-
-(Add state-tree.png here)
-
----
-
-# Application Flow
-
-(Add app-flow.png here)
+### Kanban Board
+![Kanban](docs/wireframes/kanban.png)
 
 ---
 
-# Demo
+## 🏗 Redux State Tree
+![Redux State Tree](docs/architecture/state-tree.png)
 
-Duration
+---
 
-3 Minutes
+## 🔄 Application Flow
+![Application Flow](docs/architecture/app-flow.png)
 
-Presentation Flow
+---
 
-Introduction
-
-Project Problem
-
-Solution
-
-Wireframes
-
-Redux Architecture
-
-Mock API
-
-Future Scope
-
+## 🧩 Frontend System Architecture
+![System Architecture](docs/architecture/system-architecture.png)
 ---
 
 # Timeline
